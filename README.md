@@ -1,5 +1,4 @@
 # Dudu_OpenUTAU
-# Dudu_OpenUTAU
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenUTAU-Fork-blue?style=for-the-badge" alt="OpenUTAU Fork">
@@ -50,4 +49,4 @@ Contributions, bug reports, and feature requests are welcome! Feel free to check
 
 ## 📜 License / Licença
 
-This project is licensed under the terms of the [MIT License](LICENSE) (ou substitui pelo tipo de licença correta do teu projeto).
+This project is licensed under the terms of the [MIT License](LICENSE)
