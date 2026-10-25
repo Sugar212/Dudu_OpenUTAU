@@ -5,48 +5,73 @@
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=for-the-badge" alt="Platform">
 </p>
 
-[**Português (Brasil)**](#-sobre-o-projeto) | [**English**](#-about-the-project)
+[**English**](#-about-the-project) | [**Português (Brasil/Portugal)**](#-sobre-o-projeto)
 
 ---
 
 ## 🇺🇸 About the Project
 
-**Dudu_OpenUTAU** is a custom modification (fork) of [OpenUTAU](https://github.com/stutterfly/OpenUTAU), designed to enhance workflow efficiency and provide extra customization options for singers and producers using the software.
+**Dudu_OpenUTAU** is a custom modification (fork) of [OpenUTAU](https://github.com/stutterfly/OpenUTAU) designed to optimize workflow and add extra features for voicebank producers and creators.
 
-### ✨ Key Features
+### ✨ Key Features & Screenshots
 
-- 📤 **New Export Method (WAV + LAB):** Quickly export your project audio along with label files (`.lab`), making it easier to integrate with other speech/singing processing tools.
-- 👥 **Integrated Singers View Tab:** A brand new tab right in the main menu to easily browse, manage, and view your installed singers/voicebanks.
-- 🎹 **Advanced Piano Roll Customization:** Extra options to customize the piano roll interface and behavior to better suit your editing workflow.
+#### 1. Integrated Singers Tab & Gallery
+Access your voicebanks directly from the main start menu and browse installed singers with a clean gallery interface.
+
+| Start Screen Menu | Singer Gallery View |
+| :---: | :---: |
+| <img src="assets/start_menu.png" width="400" alt="Start Screen Menu"> | <img src="assets/singer_gallery_1.png" width="400" alt="Singer Gallery View"> |
+
+| Singer Details & Info |
+| :---: |
+| <img src="assets/singer_gallery_2.png" width="500" alt="Singer Details"> |
+
+---
+
+#### 2. Advanced Customization Options
+Customize the piano roll interface, appearance, background images, and icon folders directly through the preferences menu.
+
+<p align="center">
+  <img src="assets/appearance_settings.png" width="600" alt="Appearance Settings">
+</p>
+
+---
+
+#### 3. New Audio Export Method (WAV + LAB)
+Easily export projects with generated label files (`.lab`)Alongside `.wav` files for seamless integration with speech and singing processing tools.
+
+<p align="center">
+  <img src="assets/export_wav_lab.png" width="600" alt="WAV and LAB Export Options">
+</p>
 
 ---
 
 ## 🇧🇷 Sobre o Projeto
 
-O **Dudu_OpenUTAU** é uma modificação (fork) personalizada do [OpenUTAU](https://github.com/stutterfly/OpenUTAU), desenvolvida para otimizar o fluxo de trabalho e trazer opções extras de personalização para produtores musicais e utilizadores da ferramenta.
+O **Dudu_OpenUTAU** é um fork personalizado do [OpenUTAU](https://github.com/stutterfly/OpenUTAU), focado em melhorar o fluxo de trabalho e trazer novas opções para criadores e utilizadores do programa.
 
 ### ✨ Principais Funcionalidades
 
-- 📤 **Novo Método de Exportação (WAV + LAB):** Exporte o áudio do seu projeto juntamente com ficheiros de legenda (`.lab`), facilitando a integração com outras ferramentas de processamento de voz.
-- 👥 **Aba de Visualização de Cantores Integrada:** Uma nova aba diretamente no menu principal para visualizar, gerir e explorar os bancos de voz instalados com mais facilidade.
-- 🎹 **Customização Avançada do Piano Roll:** Opções adicionais para personalizar a interface e o comportamento do piano roll de acordo com o seu fluxo de edição.
+- 👥 **Aba de Cantores Integrada:** Botão direto no menu principal para abrir a galeria e navegar pelos *voicebanks* instalados.
+- 🎹 **Personalização de Interface:** Configurações de imagem de fundo, opacidade e ícones do *piano roll*.
+- 📤 **Exportação WAV + LAB:** Novo método no menu *File > Export Audio* para exportar ficheiros de áudio juntamente com as legendas `.lab`.
 
 ---
 
 ## 🚀 Installation / Instalação
 
-1. Go to the [Releases](https://github.com/Sugar212/Dudu_OpenUTAU/releases) page.
-2. Download the latest version for your operating system.
-3. Extract and run!
+1. Go to the [Releases](https://github.com/Sugar212/Dudu_OpenUTAU/releases) section.
+2. Download the latest release build for your operating system.
+3. Extract the `.zip` archive and launch the executable.
 
 ---
 
-## 🤝 Contributing / Contribuindo
+## 🤝 Contributing
 
-Contributions, bug reports, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Sugar212/Dudu_OpenUTAU/issues).
+Contributions, bug reports, and suggestions are welcome! Feel free to open an [Issue](https://github.com/Sugar212/Dudu_OpenUTAU/issues) or submit a Pull Request.
 
 ---
 
-## 📜 License / Licença
+## 📜 License
 
-This project is licensed under the terms of the [MIT License](LICENSE)
+This project is open-source and inherits the licensing terms from [OpenUTAU](https://github.com/stutterfly/OpenUTAU) (MIT License).
